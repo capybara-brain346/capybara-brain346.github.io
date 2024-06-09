@@ -12,7 +12,7 @@ title                    : "Piyush Choudhari"
 title_separator          : "-"
 name                     : &name "Piyush Choudhari"
 description              : &description "Enthusiastic Artificial Intelligence & Machine Learning (AI/ML) student seeking to leverage my passion for technology to solve complex problems and drive innovation. Currently pursuing a degree in Artificial Intelligence & Data Science at DYPCOE I'm eager to learn from experienced professionals and contribute to the advancement of the field."
-url                      : https://capybara-brain346.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://capybara-brain346.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "capybara-brain346/capybara-brain346.github.io"
 
