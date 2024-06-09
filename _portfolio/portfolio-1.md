@@ -5,7 +5,7 @@ excerpt: "A platform for performing accurate medical risk analysis on patients u
 Tech stack used:
 - Python, Django, Tensorflow and various other ML libraries
 - SQLite3 database with Django ORM wrapper
-- Frontend: HTML, CSS, JS, Bootstrap and Animista CSS<br/><img src='images\Landing_Page.png'>"
+- Frontend: HTML, CSS, JS, Bootstrap and Animista CSS<br/><img src='images/Landing_Page.png'>"
 collection: portfolio
 ---
 
